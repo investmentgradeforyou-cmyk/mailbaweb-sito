@@ -1,2 +1,3 @@
 # mailbaweb-sito
-sito uniqa
+
+Sito di presentazione di UNIQA S.r.l.s. (mailbaweb.it). Pagine statiche HTML/CSS.
